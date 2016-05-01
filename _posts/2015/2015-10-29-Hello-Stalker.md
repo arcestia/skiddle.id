@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Hello Stalker
+tags:
+- blog
+- diary
 ---
 *Thanks for Stalking at me. you're my great admirer.*
 

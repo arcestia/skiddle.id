@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Fourlook, Segera dibulan Maret.
-subtitle: Fourlook adalah social media yang mengusung tema "Freedom of Speech".
+tags:
+- blog
+- work
 ---
 ![](/img/2016/mar/18/fourlook.png)
 

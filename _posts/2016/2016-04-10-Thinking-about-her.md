@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Thinking about her.
-subtitle: I just want to tell my own mind
+tags:
+- diary
 ---
 >Aku juga bingung kenapa bikin post kayak gini, tapi tangan ini bergerak untuk menuliskan cerita yang nan indah ini. cielah puitis banget ya gw...hahaha
 >

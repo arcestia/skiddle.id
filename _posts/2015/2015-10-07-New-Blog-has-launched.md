@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New Blog has been Launched
-subtitle: My New Blog has been Launched since October 7,2015.
+tags:
+- blog
 ---
 ### What Happen with older blog?
 

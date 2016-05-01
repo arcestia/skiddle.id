@@ -1,7 +1,8 @@
 ---
 layout: post
 title: i feel disappointed
-subtitle: i really disappointed with her
+tags:
+- diary
 ---
 ***Warning, maybe some bad word will coming in this post***
 

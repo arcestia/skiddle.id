@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Kami Adalah Indonesia
-subtitle: Kami Adalah Indonesia dan Kami Bersatu Bersama Demi Negeri Tercinta, Merdeka!!!
+tags:
+- blog
+- indonesia
 ---
 # Kami Adalah Indonesia
 

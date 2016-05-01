@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Another day in my dream.
-subtitle: This my second part of my life.
+tags:
+- diary
+- life
 ---
 >Berlatar belakang ketika saya masih SMP, penuh dengan candaan dan tawa.
 >

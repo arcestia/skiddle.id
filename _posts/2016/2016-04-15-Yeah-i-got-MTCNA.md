@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Yes Finally i got MTCNA.
-subtitle: The Beginning my Story in Networking.
+tags:
+- diary
+- life
 ---
 ![MTCNA](https://www.mikrotik.com/training/certificates/b54252c47028a982d49)
 

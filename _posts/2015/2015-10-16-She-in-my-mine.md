@@ -1,7 +1,8 @@
 ---
 layout: post
 title: She in my mine
-subtitle: She Always in my mine, but why i thinking her along time.
+tags:
+- diary
 ---
 *Sorry in this writing i will write in Indonesian.*
 

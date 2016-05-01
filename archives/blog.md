@@ -1,4 +1,4 @@
 ---
 layout: archive
-tag: ip
+tag: blog
 ---

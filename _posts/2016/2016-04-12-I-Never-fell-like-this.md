@@ -1,7 +1,8 @@
 ---
 layout: post
 title: I Never feel like this
-subtitle: This love make me blind
+tags:
+- diary
 ---
 >Kata demi kata sudah aku rangkai sedemikian rupa nan indah untukmu.
 >

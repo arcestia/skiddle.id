@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Awal Cerita aku jatuh cinta dengan komputer.
-subtitle: Part 1 of my life story
+tags:
+- diary
 ---
 Halo guys, kali ini gw coba ceritakan awalnya gw jatuh cinta nih hahaha...
 bukan sama cewe tapi kali ini sama komputer, ya komputer.. dulu saat gw SD gw sudah dikenal Linux tuh disekolah, kira-kira sih kelas 4 SD tuh. Setelah itu tahun berikutnya kelas 5 gw ikut ekskul komputer disekolah.. nah ini nih yang menarik gw diajarin **HTML** ya **HTML** gila banget kan nih guru, coba aja pikir anak kelas 5 SD diajarin HTML gimana gak pusing coba.. tapi ternyata belajar HTML itu menyenangkan.. saat itulah gw dan temen2 gw iseng bikin web sendiri... awalnya kita coba" pake Ning.com salah satu layanan Social Network.. keren kan buat Sosmed sendiri hehehe itu anak 5 SD loh...
