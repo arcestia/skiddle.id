@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/site.css">
+
+  <link href="http://feeds.feedburner.com/arcestia" rel="alternate" title="arcestia.id" type="application/atom+xml">
+
+  {% seo %}
+
+  <!-- FIXME: {{ item.data.head }} -->
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1><a class="name" href="/">{{ site.name }}</a></h1>
+    <div id="links">
+      <a href="/archives/">Posts</a>
+      <a href="/talks/">Talks</a>
+      <a href="https://twitter.com/LizSnowy" class="icon icon-mark-twitter" title="Follow me on Twitter"></a>
+      <a href="https://feeds.feedburner.com/arcestia" class="icon icon-feed" title="Subscribe to the Feed"></a>
+    </div>
+  </div>
+</header>
+{% if page.hero %}
+<div id="hero">
+  <div class="container">
+    <section>
+      <h1><mark class="condensed">{{ site.title }}</mark></h1>
+      <p><mark class="condensed">{{ site.description }}</mark></p>
+    </section>
+  </div>
+</div>
+{% endif %}
+<div class="container">
+  <div id="content">
+    {{ content }}
+  </div>
+
+  <div id="about">
+    <section>
+      <p class="small">
+        <img class="avatar" src="https://github.com/arcestia.png" alt="avatar of Laurensius Jeffrey Chandra">
+        <em>I am Laurensius Jeffrey Chandra, and I work at Skyventures Interactive on making Web more effective, elegant, and responsive. I always keep learn and foolish.</em>
+      </p>
+    </section>
+  </div>
+
+  <footer>
+    <a href="/LICENSE/">Fine Print</a>
+  </footer>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-68555939-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</body>
+</html>

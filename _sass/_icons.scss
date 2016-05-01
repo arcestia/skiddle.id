@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'arcestia';
+  src: url('../fonts/arcestia.eot');
+  src: url('../fonts/arcestia.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/arcestia.woff') format('woff'),
+       url('../fonts/arcestia.ttf') format('truetype'),
+       url('../fonts/arcestia.svg#arcestia') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon {
+  font: normal normal 16px arcestia;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+.icon-feed:before { content: '\f001'}
+.icon-mark-github:before { content: '\f003'}
+.icon-mark-twitter:before { content: '\f004'}
