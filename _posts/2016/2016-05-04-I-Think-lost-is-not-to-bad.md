@@ -4,6 +4,7 @@ title: I think lost something not to bad.
 tags:
 - diary
 ---
+
 ## first
 
 > finally this day, will be my last day with my friends.
