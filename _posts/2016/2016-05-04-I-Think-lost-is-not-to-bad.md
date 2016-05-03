@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I think lost something not to bad.
 tags:
 - diary
