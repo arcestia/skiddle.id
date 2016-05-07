@@ -26,6 +26,9 @@ amazon_associate_id: arcestiaorg0d-20
 branch: master
 repository: arcestia/arcestia.github.io
 
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "arcestia"
+
 # SEO
 title: Laurensius Jeffrey Chandra
 description: I keep learn, and stay foolish.
