@@ -1,4 +1,4 @@
 ---
 layout: archive
-tag: stories
+tag: story
 ---

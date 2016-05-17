@@ -2,7 +2,7 @@
 layout: post
 title: I'd love you anyway
 tags:
-- stories
+- story
 ---
 >"Hey I'll see you tonight for our dinner okay? I'm almost done with my work. Can't wait to see you"
 >
