@@ -62,7 +62,7 @@ tags:
 >She then felt another chill. She looked on the side of the mirror when...
 >
 >"Ah!" swallowing the rest of her fears, she ran to the car that was right up ahead of her. Starting up her car and called her brother before driving away from the creepiest alley she had ever been to.
-
+>
 >It was a big black silhouette.
 >
 >"Dan, I'm coming over, wait outside when I call you" she talked on the phone while driving her car after the fright.
@@ -83,7 +83,7 @@ tags:
 >
 >She walked on the terrace to her car when she felt a chill on her skin, impacting through to the bone once more. She looked to the left and right but nothing was there.
 >
-"Tap-tap-tap"
+>"Tap-tap-tap"
 >
 >"UH?" She reflexively looked back after hearing footsteps from her back.
 >
@@ -183,7 +183,7 @@ tags:
 >
 >"I love you Ryan, no matter what you are..." lastly Eva made the statement that cleared the situation. She would never let Ryan go.
 >
-"I... Love you too, Eva"
+>"I... Love you too, Eva"
 >
 >They gazed at each other, Eva let out a warm smile while Ryan let out a charming smile, even if it was covered by monstrosity. Then, Ryan asked for her hand to escort her to the dining room he had prepared for some time.
 >
