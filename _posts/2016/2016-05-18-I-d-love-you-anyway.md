@@ -1,8 +1,8 @@
 ---
 layout: post
-title: I'd love you anyway
+title: "I'd love you anyway"
 tags:
-- stories
+  - stories
 ---
 # I'd love you anyway (Short Stories)
 
