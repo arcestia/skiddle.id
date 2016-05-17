@@ -2,8 +2,9 @@
 layout: post
 title: I'd love you anyway
 tags:
-- diary
+- stories
 ---
+# I'd love you anyway (Short Stories)
 
 >"Hey I'll see you tonight for our dinner okay? I'm almost done with my work. Can't wait to see you"
 >
