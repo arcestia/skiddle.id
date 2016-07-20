@@ -1,4 +1,0 @@
----
-layout: archive
-tag: work
----

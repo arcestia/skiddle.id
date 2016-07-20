@@ -1,9 +1,0 @@
-#!/bin/sh
-
-set -e
-
-DRAFT=$(basename $1)
-DESTINATION=$(date "+_posts/%Y/%Y-%m-%d-$DRAFT")
-
-mkdir -p $(basename $DESTINATION)
-mv _drafts/$DRAFT $DESTINATION
