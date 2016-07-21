@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Arcestia Blog
+SEOTitle: Laurensius Jeffrey Chandra | Arcestia Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+email: arcestia@vivaldi.net
+description: "Social Media Addict, Writer, Open Source Developer | Web & Mobile Lover，Front-End Engineer，UX Designer | Skymedia Digital, Skyventures Interactive."
+keyword: "arcestia, @arcestia, social, blog, Developer, Engineer, Designer, Skymedia, Skyventures, @LizSnowy, arcestiaishere, GitHub"
 url: "http://arcestia.skymedia.asia"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,12 +12,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
-# linkedin_username:  firstname-lastname-idxxxx
+github_username:    arcestia
+twitter_username:  LizSnowy
+facebook_username:  Arcestia
+linkedin_username:  laurensius-jeffrey-chandra-3a8834120
 
 
 
@@ -26,7 +24,7 @@ facebook_username:  huxpro
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
@@ -48,29 +46,29 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: arcestia
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: -
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: false                   # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: 0
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-68555939-1'            # Format: UA-xxxxxx-xx
+ga_domain: arcestia.skymedia.asia
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://github.com/arcestia.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
