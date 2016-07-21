@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fourlook, Segera dibulan Maret."
-subtitle: "Fourlook adalah social media yang mengusung tema "Freedom of Speech"."
+title: "Fourlook, Segera dibulan Maret"
+subtitle: "Fourlook adalah social media yang mengusung tema "Freedom of Speech""
 date:       2016-03-18 12:00:00
 author:     "Arcestia"
 header-img: "/img/2016/mar/18/fourlook.png"
