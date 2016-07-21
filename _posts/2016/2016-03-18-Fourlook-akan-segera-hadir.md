@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fourlook, Segera dibulan Maret"
+title: "Fourlook Segera dibulan Maret"
 date:       2016-03-18 12:00:00
 author:     "Arcestia"
 header-img: "/img/2016/mar/18/fourlook.png"
