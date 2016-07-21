@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: arcestia@vivaldi.net
 description: "Social Media Addict, Writer, Open Source Developer | Web & Mobile Lover，Front-End Engineer，UX Designer | Skymedia Digital, Skyventures Interactive."
 keyword: "arcestia, @arcestia, social, blog, Developer, Engineer, Designer, Skymedia, Skyventures, @LizSnowy, arcestiaishere, GitHub"
-url: "http://arcestia.github.io"              # your host, for absolute URL
+url: "http://arcestia.skymedia.asia"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -61,6 +61,7 @@ disqus_username: arcestia
 # ba_track_id: 0
 # Google Analytics
 ga_track_id: 'UA-68555939-1'            # Format: UA-xxxxxx-xx
+ga_domain: arcestia.skymedia.asia
 
 
 
