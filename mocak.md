@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!-- background: #92117e -->
 <!-- color: #ffd595 -->
 <!-- font: verdana -->
@@ -10,7 +13,7 @@
 
 * * *
 
-Markdown is a simple, humanistic way to write html. You write text in a text editor and give certain things properties that can be interpreted as html. You can focus on your words, we'll focus on making it look pretty on any device. We love markdown for its simplicity and sheer quickness. We hope you'll love it too, and we've put together this handy guide to help you get started. 
+Markdown is a simple, humanistic way to write html. You write text in a text editor and give certain things properties that can be interpreted as html. You can focus on your words, we'll focus on making it look pretty on any device. We love markdown for its simplicity and sheer quickness. We hope you'll love it too, and we've put together this handy guide to help you get started.
 
 * * *
 
@@ -18,7 +21,7 @@ Markdown is a simple, humanistic way to write html. You write text in a text edi
 
 * * *
 
-To separate your file into slides, all you need to do is add three stars * * * where you want a new slide to begin. 
+To separate your file into slides, all you need to do is add three stars * * * where you want a new slide to begin.
 
 **If the stars are in the middle of a sentence, they won't break your document into slides. But when on a separate line, they will.**
 
@@ -28,37 +31,37 @@ To separate your file into slides, all you need to do is add three stars * * * w
 
 * * *
 
-If you want to set a global style for your presentation, we've built in a very simple way to do it. All you need to do is to copy paste the following code in the very beginning of your document, and change the colors to what you want them to be. 
+If you want to set a global style for your presentation, we've built in a very simple way to do it. All you need to do is to copy paste the following code in the very beginning of your document, and change the colors to what you want them to be.
 
 		<!-- background: #ff7b3b -->
 		<!-- color: #fff -->
 
-To help you get started, we put together a great collection of downloadable "templates" that you can use and see how it works. [Find them here](https://www.swipe.to/markdown). 
+To help you get started, we put together a great collection of downloadable "templates" that you can use and see how it works. [Find them here](https://www.swipe.to/markdown).
 
 * * *
 
 <!-- background: #4cc24e -->
 <!-- color: #fff -->
 
-You can also apply background and font color on a slide-by-slide basis. This slide is green, for example. It's done in the same way as the global background. 
+You can also apply background and font color on a slide-by-slide basis. This slide is green, for example. It's done in the same way as the global background.
 
 		<!-- background: #4cc24e -->
 		<!-- color: #fff -->
 
 * * *
 
-If you don't set a new background color, the last color setting used will continue for the remainder of your presentation, unless you otherwise specify. 
+If you don't set a new background color, the last color setting used will continue for the remainder of your presentation, unless you otherwise specify.
 
 * * *
 
 <!-- background: #ff7b3b -->
 <!-- color: #fff -->
 
-# **Headings** 
+# **Headings**
 
 * * *
 
-With markdown, you can easily mark what you want to be a heading and how big you want it to be. To do this, you just use hashtags "#". 
+With markdown, you can easily mark what you want to be a heading and how big you want it to be. To do this, you just use hashtags "#".
 
 `# Heading 1`
 
@@ -83,11 +86,11 @@ Normal paragraph text
 
 * * *
 
-# **If you use only a "heading 1" on a slide, it will be centered.** 
+# **If you use only a "heading 1" on a slide, it will be centered.**
 
 * * *
 
-# **Lists** 
+# **Lists**
 
 * * *
 
@@ -99,7 +102,7 @@ You can easily create bullet or number lists with markdown. Just number your poi
 
 * * *
 
-To make a bullet list, you can use one star *, one hyphen -, or one plus + before the item. 
+To make a bullet list, you can use one star *, one hyphen -, or one plus + before the item.
 
 `* Bullet 1`
 
@@ -111,7 +114,7 @@ To make a bullet list, you can use one star *, one hyphen -, or one plus + befor
 They'll look like this:
 
 * Bullet 1
-- Bullet 2 
+- Bullet 2
 + Bullet 3
 
 * * *
@@ -138,7 +141,7 @@ They'll look like this:
 
 * * *
 
-`> This is a blockquote (quote)` 
+`> This is a blockquote (quote)`
 
 > This is a blockquote (quote)
 
@@ -148,7 +151,7 @@ They'll look like this:
 
 * * *
 
-Linking parts of your text is very simple in markdown. All you need to do is put the words you want to link in brackets [ ] and the link in parenthesis ( ) next to it. 
+Linking parts of your text is very simple in markdown. All you need to do is put the words you want to link in brackets [ ] and the link in parenthesis ( ) next to it.
 
 `[Swipe website](http://www.swipe.to)`
 
@@ -175,11 +178,11 @@ Adding images is very similar to adding links. You just need to add an exclamati
 
 * * *
 
-# **Code blocks** 
+# **Code blocks**
 
 * * *
 
-To show a code block, you need four spaces or a tab at the start of a line. Formatting in space-indented code blocks is ignored. 
+To show a code block, you need four spaces or a tab at the start of a line. Formatting in space-indented code blocks is ignored.
 
 	<blink> Blinking code blocks </blink>
 
@@ -191,7 +194,7 @@ To show a code block, you need four spaces or a tab at the start of a line. Form
 
 **You can write and save markdown in many text editors. Here are some we recommend you try (free and paid):**
 
-Windows: 
+Windows:
 
 Notepad, [Sublime Text](http://www.sublimetext.com/), [Texts](http://www.texts.io/), [Write Monkey](http://writemonkey.com/index.php), [markdown Pad](http://markdownpad.com/)
 
@@ -220,22 +223,12 @@ Fortunately, lots of great people have put together helpful markdown guides. Her
 
 * * *
 
-We hope you enjoy using Swipe, and if you have any questions, don't hesitate to email us at [support@swipe.to](mailto:support@swipe.to) 
+We hope you enjoy using Swipe, and if you have any questions, don't hesitate to email us at [support@swipe.to](mailto:support@swipe.to)
 
 * * *
 
 And find us on [Twitter](https://twitter.com/swipe_to) and [Facebook](https://www.facebook.com/swwwipe) to keep in touch!
 
-* * * 
+* * *
 
 ## **Thank you for using Swipe**
-
-
-
-
-
-
-
-
-	
-
