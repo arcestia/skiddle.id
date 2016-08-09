@@ -68,7 +68,7 @@ ga_domain: arcestia.skymedia.asia
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Social Media Addict, Writer, Open Source Developer. Web & Mobile Lover，Front-End Engineer，UX Designer."
-sidebar-avatar: http://github.com/arcestia.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/arcestia.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
