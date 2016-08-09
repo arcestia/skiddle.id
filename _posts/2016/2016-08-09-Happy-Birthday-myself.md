@@ -27,5 +27,5 @@ especially mict, xathrya, gammi, esse, nixy, mozizuki, cancan, kizuna, kurosagi,
 
 谢谢你们 - Thank you all
 
-Tuesday, August 9th 2016 </br>
+Tuesday, August 9th 2016 <br>
 In Happy Moment, Arcestia
