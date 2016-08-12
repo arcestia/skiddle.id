@@ -89,5 +89,8 @@ friends: [
     },{
         title: "Michael Takeuchi",
         href: "http://takeuchi.id/"
+    },{
+        title: "My Second Blog",
+        href: "https://me.arcestia.id/"
     }
 ]
