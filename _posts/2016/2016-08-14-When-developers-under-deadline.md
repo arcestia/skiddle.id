@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharing: When Developer Under Deadline Pressure
+title: When Developer Under Deadline Pressure
 subtitle:   "Feel stress out when deadline almost coming to developer."
 date:       2016-08-14 12:00:00
 author:     "Arcestia"
