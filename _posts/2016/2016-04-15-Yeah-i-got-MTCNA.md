@@ -7,7 +7,7 @@ author:     "Arcestia"
 header-img: "https://www.mikrotik.com/training/certificates/b54252c47028a982d49"
 tags:
 - achievement
-- Story
+- story
 - certified
 ---
 
