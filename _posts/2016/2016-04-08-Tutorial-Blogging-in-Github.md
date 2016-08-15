@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: keynote
 title: "Tutorial Blogging di Github"
 subtitle: "Menggunakan Jekyll Now"
 iframe: "https://www.youtube.com/embed/pKisVMfqexs"
