@@ -18,3 +18,7 @@ For awhile i thought Thai is hard until 1 years after that I know Vietnamese fro
 I get more native Vietnamese friends then I learn more about that languages, in same years with that Platform from Garena I meet Friends from Taiwan, SG, Malaysia, Cambodia, and Thailand.
 From that time I learn how to talk and interact with other people using their languages.
 But at all I love to know more a culture, and this made me having experienced to future.
+
+Check this out my Vietnamese song Cover
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278842790&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
