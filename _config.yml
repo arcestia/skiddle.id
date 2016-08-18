@@ -7,7 +7,7 @@ description: "Social Media Addict, Writer, Open Source Developer | Web & Mobile 
 keyword: "arcestia, @arcestia, social, blog, Developer, Engineer, Designer, Skymedia, Skyventures, @LizSnowy, arcestiaishere, GitHub"
 url: "https://arcestia.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+timezone: Asia/Singapore
 
 
 # SNS settings
