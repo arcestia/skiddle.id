@@ -74,7 +74,7 @@ sidebar-avatar: https://github.com/arcestia.png      # use absolute URL, seeing 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 5              # A tag will be featured if the size of it is more than this condition value
 
 
 
@@ -90,7 +90,7 @@ friends: [
         title: "Michael Takeuchi",
         href: "http://takeuchi.id/"
     },{
-        title: "My Second Blog",
-        href: "https://me.arcestia.id/"
+        title: "Natasha Chen",
+        href: "https://natashachen.net/"
     }
 ]
