@@ -11,6 +11,7 @@ tags:
 - people
 - Sumpah
 - Pemuda
+- Celebration
 ---
 # Selamat Hari Sumpah Pemuda!
 

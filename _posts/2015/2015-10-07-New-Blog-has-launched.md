@@ -7,6 +7,7 @@ author:     "Arcestia"
 header-img: "img/post-bg-blog.jpg"
 tags:
 - blog
+- Celebration
 ---
 ### What Happen with older blog?
 

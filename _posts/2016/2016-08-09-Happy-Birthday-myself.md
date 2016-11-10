@@ -10,6 +10,7 @@ tags:
 - birthday
 - story
 - my life
+- Celebration
 ---
 
 # First

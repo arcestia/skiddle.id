@@ -9,6 +9,7 @@ tags:
 - achievement
 - story
 - certified
+- Celebration
 ---
 
 # Yeah Finally after a longtime learn

@@ -9,6 +9,7 @@ tags:
 - Indonesia
 - Pemuda
 - Sumpah
+- Celebration
 ---
 # Kami Adalah Indonesia
 
