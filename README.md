@@ -1,6 +1,6 @@
-# arcestia.id
+# arcestia.com
 
-The personal website of Laurensius Jeffrey Chandra. Built using Jekyll, GitHub Pages, and Bootstrap. See [status.txt](http://arcestia.id/status.txt) for more infos.
+The personal website of Laurensius Jeffrey Chandra. Built using Jekyll, GitHub Pages, and Bootstrap. See [status.txt](http://arcestia.com/status.txt) for more infos.
 
 ## License
 
