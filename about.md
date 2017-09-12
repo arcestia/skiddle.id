@@ -4,7 +4,7 @@ title: About
 ---
 
 Hello.
+Selamat datang di blog yang simple ini, dan gak seperti blog gw di [arcestia.com](1). Blog ini khusus untuk berbahasa indonesia, dan akan lebih banyak ke berita personal maupun field report. So stay tune terus diblog ini ya.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+**The more you learn, The more you think you know nothing.**
+[1]: https://arcestia.com
