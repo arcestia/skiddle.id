@@ -1,5 +1,5 @@
 ---
-title: My Friends: Tahta Bintang Pratama
+title: My Friends - Tahta Bintang Pratama
 updated: 2017-09-14 02:00
 ---
 <a href='https://photos.google.com/share/AF1QipO_SRTgdP4cvS7BBJFke5G96fX469PN3O0aMttxLN5cKeH6pWr00fKzkpIj60rFMg?key=R3ZQOTVyaksxelhLTkY2MHVzWnduUjFhSnV5aG9R&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/pTS5PzgO_CF_Wqjf-wxqiokopFtdgRfrlHC68Rg7812a09CmMbZHuEujf6_btXX9EhtQW6pV-z0iyTpAya5REuykZ90fSnbslXHcGSCwOpK5p2Pk5QF4Q_MTB374rCJTwH3-OmVlXg' /></a>
