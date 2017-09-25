@@ -8,4 +8,4 @@ Selamat datang di blog yang simple ini, dan gak seperti blog gw di [arcestia.com
 
 **The more you learn, The more you think you know nothing.**
 
-[1]:  https://arcestia.com
+[1]:https://arcestia.com
