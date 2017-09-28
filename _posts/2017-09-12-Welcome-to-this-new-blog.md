@@ -15,8 +15,5 @@ updated: 2017-09-12 13:37
   Di blog ini saya akan lebih banyak memakai Bahasa Indonesia daripada Bahasa Inggris. Jadi tidak seperti blog saya yang lain, blog ini di dedikasikan lebih tentang kehidupan saya, dibandingkan apa yang saya lakukan dari Research maupun Hobby.
 
 ## Other Blog
-- [ArcestiaDotCom](1)
-- [Catatan Arcestia](2)
-
-[1]: https://arcestia.com/
-[2]: https://catatan.arcestia.com/
+- [ArcestiaDotCom](https://arcestia.com/)
+- [Catatan Arcestia](https://catatan.arcestia.com/)
