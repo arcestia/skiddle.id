@@ -21,8 +21,8 @@ Links:
 
 Di Indonesia Android Kejar semua materi course bisa kamu akses langsung di Udacity, berikut link course setiap level yang digunakan di study group Indonesia Android Kejar yang bisa kamu akses:
 
-1. Beginner Level: https://www.udacity.com/courses/ud834 & https://www.udacity.com/courses/ud836
+1. Beginner Level: [https://www.udacity.com/courses/ud834](https://www.udacity.com/courses/ud834) & [https://www.udacity.com/courses/ud836](https://www.udacity.com/courses/ud836)
 
-2. Intermediate Level: https://www.udacity.com/courses/ud851
+2. Intermediate Level: [https://www.udacity.com/courses/ud851](https://www.udacity.com/courses/ud851)
 
-3. Advanced Level: https://www.udacity.com/courses/ud855
+3. Advanced Level: [https://www.udacity.com/courses/ud855](https://www.udacity.com/courses/ud855)
