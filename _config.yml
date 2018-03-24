@@ -31,7 +31,7 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
 
-
+remote_theme: "mmistakes/minimal-mistakes"
 
 defaults:
   -
