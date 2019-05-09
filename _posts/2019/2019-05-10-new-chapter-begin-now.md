@@ -23,7 +23,7 @@ Kejadian diatas mendorongku bahwa Tuhan sungguh baik sekali kepadaku, Ia selalu 
 
 walah.. jadi terlalu emosional begini deh. Tapi pada akhirnya kita harus selalu bergerak maju bukan mundur. Walaupun Jalan yang kita lewati itu gelap tetaplah percaya akan ada Terang diujung nanti. Yuk gunakan tagar #GoingForward #LetsMoveOn dan Jangan Lupa #IndonesiaMenulis. Ayo mulai ceritakan suaramu melalui tulisan-tulisan karena menulis itu menyenangkan loh.
 
-Jumat, 10 Mei 2019
+Jumat, 10 Mei 2019 <br>
 Laurensius Jeffrey
 
 Salam tulis #IndonesiaMenulis
