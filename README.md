@@ -1,8 +1,7 @@
 # arcestia.github.com
 Just a simple blog with jekyll
 
-Feel free contact me at mastodon, @arcestia@socialize.cyou
-
+Feel free follow me on [Bluesky](https://bsky.app/profile/skiddle.id)
 ### License
 
 [MIT](LICENSE.md)
