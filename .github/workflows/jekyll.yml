@@ -8,11 +8,15 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        submodules: 'recursive' # Ensures submodules are checked out
+        token: ${{ secrets.GH_TOKEN }} # Use your PAT stored in secrets
+
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
