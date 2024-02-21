@@ -24,8 +24,9 @@ jobs:
       run: |
         cd _posts/
         git fetch origin
-        git merge origin/master
-        cd -
+        git merge origin/master --allow-unrelated-histories -m "Merge commit" || echo "Merge failed"
+        cd ..
+        git add _posts
         git commit -am "Post updated on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No posts updates found"
     
     - name: Build Jekyll site
