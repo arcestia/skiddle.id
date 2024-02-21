@@ -27,7 +27,7 @@ jobs:
   
     - name: Commit changes
       run: |
-          git commit -am "Submodule updated" || echo "No changes to commit"
+          git commit -am "Post updated on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No posts updates found"
           git push
   
     - name: Build Jekyll site
