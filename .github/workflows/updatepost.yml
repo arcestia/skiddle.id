@@ -17,8 +17,8 @@ jobs:
         token: ${{ secrets.BOT_GITHUB_TOKEN }}
     - name: Configure git
       run: |
-          git config user.email "160487326+Skiddle-Git@users.noreply.github.com"
-          git config user.name "Skiddle Git Assistant"
+          git config --global user.email "160487326+Skiddle-Git@users.noreply.github.com"
+          git config --global user.name "Skiddle Git Assistant"
         
     - name: Update Submodule
       run: |
