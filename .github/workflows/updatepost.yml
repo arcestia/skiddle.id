@@ -1,4 +1,4 @@
-name: Update Submodule
+name: Update Submodule and Build Jekyll Site
 
 on:
   schedule:
@@ -6,19 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  update_and_build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: true
+        submodules: true # Ensure submodules are checked out
         token: ${{ secrets.BOT_GITHUB_TOKEN }}
+
     - name: Configure git
       run: |
-          git config --global user.email "160487326+Skiddle-Git@users.noreply.github.com"
-          git config --global user.name "Skiddle Git Assistant"
+        git config --global user.email "160487326+Skiddle-Git@users.noreply.github.com"
+        git config --global user.name "Skiddle Git Assistant"
         
     - name: Update Submodule
       run: |
@@ -29,6 +30,10 @@ jobs:
         git add _posts
         git commit -am "Post updated on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No posts updates found"
     
+    - name: Push changes
+      run: git push origin HEAD:master
+      # Adjust HEAD:master if your branch is different, e.g., HEAD:main
+
     - name: Build Jekyll site
       run: |
         docker run \
