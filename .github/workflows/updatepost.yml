@@ -1,0 +1,36 @@
+name: Update Submodule
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        submodules: true
+        token: ${{ secrets.BOT_GITHUB_TOKEN }}
+
+    - name: Update Submodule
+      run: |
+        git submodule update --remote --merge
+
+    - name: Configure git
+      run: |
+          git config user.email "160487326+Skiddle-Git@users.noreply.github.com"
+          git config user.name "Skiddle Git Assistant"
+  
+    - name: Commit changes
+      run: |
+          git commit -am "Submodule updated" || echo "No changes to commit"
+          git push
+  
+    - name: Build Jekyll site
+      run: |
+          bundle install
+          bundle exec jekyll build

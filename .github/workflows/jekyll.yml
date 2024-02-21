@@ -14,8 +14,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: 'recursive' # Ensures submodules are checked out
-        token: ${{ secrets.GH_TOKEN }} # Use your PAT stored in secrets
+        submodules: 'recursive'
+        token: ${{ secrets.BOT_GITHUB_TOKEN }}
 
     - name: Build the site in the jekyll/builder container
       run: |
