@@ -22,13 +22,12 @@ jobs:
         
     - name: Update Submodule
       run: |
-        git submodule update --remote --merge
+        cd _posts/
+        git fetch origin
+        git merge origin/master
+        cd -
+        git commit -am "Post updated on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No posts updates found"
     
-    - name: Commit changes
-      run: |
-          git commit -am "Post updated on $(date +'%Y-%m-%d %H:%M:%S')" || echo "No posts updates found"
-          git push
-  
     - name: Build Jekyll site
       run: |
         docker run \
