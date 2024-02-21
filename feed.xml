@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurensius Jeffrey Chandra</title>
+    <description>Personal Blog of Laurensius Jeffrey Chandra</description>
+    <link></link>
+    
+      
+        <item>
+          <title>Guides To Git For Beginner</title>
+          <description>&lt;h1 id=&quot;guides-to-git-for-beginner&quot;&gt;Guides To Git For Beginner&lt;/h1&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Welcome to the beginner’s guide to Git! In this guide, we will cover the basics of Git and how to get started with version control in your projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-git&quot;&gt;What is Git?&lt;/h2&gt;
+
+&lt;p&gt;Git is a distributed version control system that allows multiple people to collaborate on a project while keeping track of changes made to the codebase. It provides a way to manage and track different versions of your code, making it easier to work on projects with others and revert to previous versions if needed.&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;To get started with Git, you’ll need to install it on your machine. Here are the steps to install Git:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Visit the official Git website at &lt;a href=&quot;https://git-scm.com/&quot;&gt;https://git-scm.com/&lt;/a&gt; and download the appropriate version for your operating system.&lt;/li&gt;
+  &lt;li&gt;Run the installer and follow the on-screen instructions to complete the installation process.&lt;/li&gt;
+  &lt;li&gt;Once the installation is complete, open a terminal or command prompt and type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git --version&lt;/code&gt; to verify that Git has been installed successfully.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;basic-git-commands&quot;&gt;Basic Git Commands&lt;/h2&gt;
+
+&lt;p&gt;Git provides a set of commands that you can use to interact with your code repository. Here are some of the basic Git commands you’ll need to know:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt;: Initializes a new Git repository in your project directory.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add &amp;lt;file&amp;gt;&lt;/code&gt;: Adds a file to the staging area, ready to be committed.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;&amp;lt;message&amp;gt;&quot;&lt;/code&gt;: Commits the changes in the staging area to the repository with a descriptive message.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git status&lt;/code&gt;: Shows the current status of your repository, including any changes that have been made.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git log&lt;/code&gt;: Displays a log of all the commits that have been made in the repository.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;branching-and-merging&quot;&gt;Branching and Merging&lt;/h2&gt;
+
+&lt;p&gt;One of the powerful features of Git is the ability to create branches, which allow you to work on different features or bug fixes without affecting the main codebase. Here’s how you can create and merge branches in Git:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch &amp;lt;branch-name&amp;gt;&lt;/code&gt;: Creates a new branch with the specified name.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git checkout &amp;lt;branch-name&amp;gt;&lt;/code&gt;: Switches to the specified branch.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git merge &amp;lt;branch-name&amp;gt;&lt;/code&gt;: Merges the changes from the specified branch into the current branch.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Congratulations! You now have a basic understanding of Git and how to get started with version control in your projects. Remember to practice using Git regularly to become more comfortable with its commands and workflows.&lt;/p&gt;
+
+&lt;p&gt;Happy coding!&lt;/p&gt;
+</description>
+          <pubDate>2024-02-21T00:00:00+07:00</pubDate>
+          <link>/notes/Guides-To-Git-For-Beginner</link>
+          <guid isPermaLink="true">/notes/Guides-To-Git-For-Beginner</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>My New Adventure Will Begin in 2024</title>
+          <description>&lt;p&gt;As the new year approaches, I am thrilled to embark on a significant new chapter in my life: “My New Adventure Will Begin in 2024”. This isn’t just a change in the calendar; it’s a transformative journey, a leap into a realm of new possibilities and experiences. The year 2024 marks the beginning of a journey that is not just about exploring the world but also about personal growth and pushing boundaries.&lt;/p&gt;
+
+&lt;p&gt;One key aspect of this adventure is the integration of my personal brand, Skiddle.id. This brand represents my passion for creativity, innovation, and connecting with people on a deeper level. Skiddle.id is not just a brand; it’s a reflection of my philosophy and approach to life. Through Skiddle.id, I aim to share insights, stories, and experiences that resonate with and inspire others.&lt;/p&gt;
+
+&lt;p&gt;As I document this journey, I’ll be sharing the highs and lows, the learnings, and the unforgettable moments through the lens of Skiddle.id. This adventure is an opportunity to not just explore new horizons but also to showcase what Skiddle.id stands for – creativity, adventure, and personal development.&lt;/p&gt;
+
+&lt;p&gt;I invite you to join me in this journey, to share your thoughts, experiences, and insights. Your contributions are not just valuable but essential in shaping this adventure. Together, let’s make this journey one of discovery, inspiration, and growth.&lt;/p&gt;
+
+&lt;p&gt;Here’s to a new adventure, a year of endless possibilities, and the exciting journey that 2024 promises to be, all under the banner of Skiddle.id!&lt;/p&gt;
+</description>
+          <pubDate>2023-12-14T00:00:00+07:00</pubDate>
+          <link>/notes/My-New-Adventure-Will-Begin-in-2024</link>
+          <guid isPermaLink="true">/notes/My-New-Adventure-Will-Begin-in-2024</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Adding Comments (via Utterances)</title>
+          <description>&lt;p&gt;I’ve gone back and forth about whether or not to have comments on the site. Most of all, I’ve liked having absolutely no server or external scripts on the site, and not having to moderate comments that are publicly facing on the site.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t keep ignoring how awesome &lt;a href=&quot;https://utteranc.es/&quot; title=&quot;Utterances&quot;&gt;Utterances&lt;/a&gt; looks, an &lt;a href=&quot;https://github.com/utterance/utterances&quot; title=&quot;open source project&quot;&gt;open source project&lt;/a&gt; by &lt;a href=&quot;https://github.com/jdanyow&quot; title=&quot;Jeremy Danyow&quot;&gt;Jeremy Danyow&lt;/a&gt;. Not only does it look absolutely fantastic, but it took me about 15 minutes to set up completely on my Gatsby site.&lt;/p&gt;
+
+&lt;p&gt;I made a &lt;a href=&quot;https://github.com/arcestia/comments&quot; title=&quot;comments&quot;&gt;comments&lt;/a&gt; repo to host all the issues and responses. Connecting to the Utterances GitHub app is required to leave a comment through the site, though you can also comment directly through GitHub if the issue exists. I imagine spam and obnoxious comments will be much more rare through this system, and people will actually be able to participate in discussions and leave helpful comments once again.&lt;/p&gt;
+</description>
+          <pubDate>2020-10-01T00:00:00+07:00</pubDate>
+          <link>/notes/Adding-comments-via-utterances</link>
+          <guid isPermaLink="true">/notes/Adding-comments-via-utterances</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>New Chapter Begin Now!</title>
+          <description>&lt;h1 id=&quot;hidup-baru-manusia-baru&quot;&gt;Hidup Baru, Manusia Baru!&lt;/h1&gt;
+
+&lt;p&gt;Rabu, 8 Mei 2019 aku mendapatkan kabar bahwa Hasil Ujian A2 untuk Bahasa Jerman di Goethe Institute ku tertanya “Nicht Verstanden” alias tidak lulus. Itu artinya proses pembelajaranku selama 9 bulan ini ada yang tidak beres. Aku harus bisa berubah sepenuhnya, tidak hanya dari 1 atau 2 aspek saja. Tetapi secara total, mulai dari cara hidup, pola aktifitas, hingga metode pembelajaran.&lt;/p&gt;
+
+&lt;p&gt;Beberapa tahun lalu saya pernah buat sebuah paper tentang metode efektifitas metode belajar sesuai dengan kepribadian seseorang. Karena ada orang yang mudah belajar secara visual, ada juga Kinestetik maupun secara auditory. Dan juga ada beberapa teknik yang digunakan sesuai dengan 3 golongan tersebut, oke tapi gak usah bahas itu. (btw ternyata paper itu unpublished, nanti kalau sempat di update lagi.)&lt;/p&gt;
+
+&lt;h2 id=&quot;why-now&quot;&gt;Why now?&lt;/h2&gt;
+
+&lt;p&gt;Semua ini dilatar belakangi oleh beberapa kejadian selama minggu ini. Salah satunya diatas, tapi paling semua bermula dari Senin, 6 Mei 2019. Diriku kaget terbangun karena ada suara marah-marah dan nangis diluar. Ketika keluar saya mendapati Tante ku bicara sambil nada marah dan nangis ke Nenekku. Pendek kata akhirnya dia menceritakan tentang masalah dia dengan suami dan keluarganya..&lt;/p&gt;
+
+&lt;p&gt;Singkat kata aku pernah publish semua yang diceritakan diweb lain dengan nama pena yang anonymouslah pokoknya. Intinya aja dia pokoknya dimanfaatkan oleh suaminya dan keluarga suaminya. Intinya keluarga ini mau hidup enaknya. Foya-foya terus padahal duit gak ada, ya mereka tinggal ngutang bayarpun kagak. Dst..&lt;/p&gt;
+
+&lt;p&gt;Hari ini, 10 Mei 2019 nanti pagi sekitar jam 10 aku akan menemani Tanteku untuk kesana menjemput kedua Anaknya. Dan inilah kenapa semua kehidupanku akan berubah dan dirumah akan jadi banyak orang. Artinya ada perubahan dan penyesuaian lagi.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-new-chapter-begin&quot;&gt;A New Chapter Begin.&lt;/h2&gt;
+
+&lt;p&gt;Kejadian diatas mendorongku bahwa Tuhan sungguh baik sekali kepadaku, Ia selalu mau menolong diriku Hambanya yang hina dan tak berdaya ini. Siapakah aku? Tapi akhirnya aku mengerti bahwa ini adalah kesempatan bahwa aku harus bisa buktikan aku layak, aku pantas. Pantas dan siap diberikan kekuasaan lebih lagi dari yang sekarang oleh Tuhan..&lt;/p&gt;
+
+&lt;p&gt;walah.. jadi terlalu emosional begini deh. Tapi pada akhirnya kita harus selalu bergerak maju bukan mundur. Walaupun Jalan yang kita lewati itu gelap tetaplah percaya akan ada Terang diujung nanti. Yuk gunakan tagar #GoingForward #LetsMoveOn dan Jangan Lupa #IndonesiaMenulis. Ayo mulai ceritakan suaramu melalui tulisan-tulisan karena menulis itu menyenangkan loh.&lt;/p&gt;
+
+&lt;p&gt;Jumat, 10 Mei 2019 &lt;br /&gt;
+Laurensius Jeffrey&lt;/p&gt;
+
+&lt;p&gt;Salam tulis #IndonesiaMenulis&lt;/p&gt;
+</description>
+          <pubDate>2019-05-10T00:00:00+07:00</pubDate>
+          <link>/notes/new-chapter-begin-now</link>
+          <guid isPermaLink="true">/notes/new-chapter-begin-now</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Startup Gagal? Kenapa?</title>
+          <description>&lt;h1 id=&quot;startup-gagal&quot;&gt;Startup Gagal?&lt;/h1&gt;
+&lt;p&gt;Kegagalan dalam membuat startup bukan yang pertama kalinya bagi saya, untuk kedua kalinya gagal adalah hal yang membuat saya akan berpikir lebih keras lagi kedepannya. Problematika dalam awal-awal membentuk startup sangatlah keras, tak bisa dipungkiri banyak yang berguguran di tahun pertama. Pesaingan yang keras, Berkompetisi untuk mendapatkan seed funding (dana awal). Maupun setelahnya dengan angel investor hingga ke pra seri A ataupun seri A di tahun ke 2 atau ke 3. Selain itu sebuah Tim di dalam startup dituntut untuk kreatif dan berinovasi terus menurus agar apa yang dikerjakan terus bisa berkembang seiringnya perubahan kebutuhan dan minat di masyarakat atau pasar itu sendiri.&lt;/p&gt;
+
+&lt;p&gt;Tidak ada kata terlalu mudah untuk berkarya, selama ada waktu gunakan terus untuk berkarya.&lt;/p&gt;
+</description>
+          <pubDate>2018-04-12T00:00:00+07:00</pubDate>
+          <link>/notes/Startup-gagal-lagi</link>
+          <guid isPermaLink="true">/notes/Startup-gagal-lagi</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>New Blog</title>
+          <description>&lt;h1 id=&quot;new-blog&quot;&gt;New blog&lt;/h1&gt;
+&lt;p&gt;Hallo sebelumnya blog template ini saya pakai untuk domain &lt;a href=&quot;https://callmejeff.me&quot;&gt;callmejeff.me&lt;/a&gt; dan karena domain akan expired jadi saya pakai kembali untuk domain &lt;a href=&quot;https://arcestia.com&quot;&gt;arcestia.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Semoga blog ini gak mati kayak yang sebelumnya.&lt;/p&gt;
+</description>
+          <pubDate>2018-03-27T00:00:00+07:00</pubDate>
+          <link>/notes/New-Blog</link>
+          <guid isPermaLink="true">/notes/New-Blog</guid>
+        </item>
+      
+    
+  </channel>
+</rss>
